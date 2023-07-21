@@ -39,8 +39,7 @@ header h1:after {
   margin: 0 0 12px;
 }
 #product img {
-  display: inline-block;
-  width: 100%;
+  display: inline-block
 }
 /* coupon */
 #coupon {
